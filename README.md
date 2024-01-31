@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Das</h1>
 <h3 align="center">A passionate Data Science aspirant from India</h3>
 
-- 🔭 I’m currently working on **Topic Modelling**
+- 🔭 I’m currently working on **Generative AI**
 
 - 🌱 I’m currently learning **Deep Learning, Computer Vision and Generative AI**
 
